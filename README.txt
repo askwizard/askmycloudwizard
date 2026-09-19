@@ -10,3 +10,4 @@ Before commercial launch:
 5. Do not run paid ads until each affiliate/network's traffic rules and geography are confirmed.
 
 No build step is required. index.html is the home page.
+Site deployment enabled.
